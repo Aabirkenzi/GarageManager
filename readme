@@ -1,0 +1,34 @@
+#  Application de Gestion de Garage - Phase de Conception
+
+Ce dépôt contient l'ensemble des livrables et de la documentation technique de la première phase (**Analyse et Conception**) du projet de développement de l'application de gestion de garage.
+
+---
+
+## Équipe du Projet
+* **Chef de Projet :** Aabir Kenzi
+* **Équipe de Développement & Conception :** 
+  * Mohmed Gouablla
+  * Ikram Ayache
+  * Siham El Wahmani
+  * Aya Benjdi
+
+---
+
+##  Structure du Dépôt
+
+Le projet est structuré selon les standards professionnels pour garantir une traçabilité et une clarté optimales :
+
+```text
+gestion-garage/
+│
+├── cahier_des_charges/
+│   └── cahier_des_charges.md      # Spécifications fonctionnelles et techniques
+│
+├── uml/
+│   ├── use_case.png               # Diagramme des cas d'utilisation
+│   └── class_diagram.png          # Diagramme de classes détaillé
+│
+└── maquettes/
+    ├── login.png                  # Maquette de l'écran de connexion
+    ├── dashboard.png              # Maquette du tableau de bord
+    └── reparation.png             # Maquette de la fiche d'intervention
