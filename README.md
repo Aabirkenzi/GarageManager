@@ -11,7 +11,7 @@ Ce dépôt contient l'ensemble des livrables et de la documentation technique de
   * Aya Benjdi
   * Mohamed Gouabella
   * Siham El Wahmani
-  * Aya Benjdi
+ 
 
 ---
 
